@@ -1,0 +1,11 @@
+C:\Users\Tom\source\repos\BuldingAZoo\lab04-tom\lab04-tom\bin\Debug\netcoreapp2.0\lab04-tom.deps.json
+C:\Users\Tom\source\repos\BuldingAZoo\lab04-tom\lab04-tom\bin\Debug\netcoreapp2.0\lab04-tom.runtimeconfig.json
+C:\Users\Tom\source\repos\BuldingAZoo\lab04-tom\lab04-tom\bin\Debug\netcoreapp2.0\lab04-tom.runtimeconfig.dev.json
+C:\Users\Tom\source\repos\BuldingAZoo\lab04-tom\lab04-tom\bin\Debug\netcoreapp2.0\lab04-tom.dll
+C:\Users\Tom\source\repos\BuldingAZoo\lab04-tom\lab04-tom\bin\Debug\netcoreapp2.0\lab04-tom.pdb
+C:\Users\Tom\source\repos\BuldingAZoo\lab04-tom\lab04-tom\obj\Debug\netcoreapp2.0\lab04-tom.csprojResolveAssemblyReference.cache
+C:\Users\Tom\source\repos\BuldingAZoo\lab04-tom\lab04-tom\obj\Debug\netcoreapp2.0\lab04-tom.csproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\BuldingAZoo\lab04-tom\lab04-tom\obj\Debug\netcoreapp2.0\lab04-tom.AssemblyInfoInputs.cache
+C:\Users\Tom\source\repos\BuldingAZoo\lab04-tom\lab04-tom\obj\Debug\netcoreapp2.0\lab04-tom.AssemblyInfo.cs
+C:\Users\Tom\source\repos\BuldingAZoo\lab04-tom\lab04-tom\obj\Debug\netcoreapp2.0\lab04-tom.dll
+C:\Users\Tom\source\repos\BuldingAZoo\lab04-tom\lab04-tom\obj\Debug\netcoreapp2.0\lab04-tom.pdb
